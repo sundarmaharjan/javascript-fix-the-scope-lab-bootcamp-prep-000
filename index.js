@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var animal = 'dog';
+  var animal = 'cat';
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   return animal
